@@ -6,4 +6,4 @@ wrcOfsets = {"-0x8", "0x288", "0x290", "0x298", "0x2d8", "0x2e0", "0x2e8", "0x30
 UGV = {"1.64.1.138022"}
 onlineAnnouncement = {"Im here again. So idk i hope this will help you."}
 up_ff = {"0x0", "-0x14"}
-up_dataType = {"gg.TYPE_BYTE", "gg.TYPE_QWORD"}
+up_dataType = {"1", "2"}
